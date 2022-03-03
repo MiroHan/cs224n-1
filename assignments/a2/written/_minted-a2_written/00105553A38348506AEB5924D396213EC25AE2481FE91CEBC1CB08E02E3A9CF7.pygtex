@@ -1,4 +1,0 @@
-\begin{Verbatim}[commandchars=\\\{\}]
-    conda env create \PYGZhy{}f env.yml
-    conda activate a2
-\end{Verbatim}
