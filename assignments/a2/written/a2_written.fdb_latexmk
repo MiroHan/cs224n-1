@@ -1,9 +1,9 @@
 # Fdb version 3
-["pdflatex"] 1646325247 "/media/thanhdo/DATA/thanhdonguyen/[01]_[university]/[lab]/[03] courses/cs224n/assignments/a2/written/a2_written.tex" "a2_written.pdf" "a2_written" 1646325248
+["pdflatex"] 1646328192 "/media/thanhdo/DATA/thanhdonguyen/[01]_[university]/[lab]/[03] courses/cs224n/assignments/a2/written/a2_written.tex" "a2_written.pdf" "a2_written" 1646328192
   "/dev/null" 1646296159 0 d41d8cd98f00b204e9800998ecf8427e ""
   "/etc/texmf/web2c/texmf.cnf" 1632100394 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/home/thanhdo/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1000.600pk" 1632216328 11524 53a3f95259b36e5e548377182786701f ""
-  "/media/thanhdo/DATA/thanhdonguyen/[01]_[university]/[lab]/[03] courses/cs224n/assignments/a2/written/a2_written.tex" 1646325247 32215 ee44bf24bed0be382d3cf14d0e3cbb20 ""
+  "/media/thanhdo/DATA/thanhdonguyen/[01]_[university]/[lab]/[03] courses/cs224n/assignments/a2/written/a2_written.tex" 1646328191 32216 f9e8e9e5e8dc202cfc98d80fd169b979 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/courier/pcrr7t.tfm" 1136768653 960 379cc0019370a9e0208a0a3f949f847a ""
@@ -251,13 +251,13 @@
   "_minted-a2_written/AE3F057C16A500D0523D3B8E91488750C25AE2481FE91CEBC1CB08E02E3A9CF7.pygtex" 1646297057 74 3514aca265491460edec3176aba31b1e ""
   "_minted-a2_written/default-pyg-prefix.pygstyle" 1646297057 7889 3ce1fbc763e3e2c748310f4fe31722b6 ""
   "_minted-a2_written/default.pygstyle" 1646297057 9275 f200be7fc0b7de2461cca28cb35b1427 ""
-  "a2_written.aux" 1646325248 2450 8748d87c3528854de23b5d3661da2322 "pdflatex"
-  "a2_written.out" 1646325248 216 c2adc44363635ef237779d10231414d7 "pdflatex"
-  "a2_written.tex" 1646325247 32215 ee44bf24bed0be382d3cf14d0e3cbb20 ""
+  "a2_written.aux" 1646328192 2450 8748d87c3528854de23b5d3661da2322 "pdflatex"
+  "a2_written.out" 1646328192 216 c2adc44363635ef237779d10231414d7 "pdflatex"
+  "a2_written.tex" 1646328191 32216 f9e8e9e5e8dc202cfc98d80fd169b979 ""
   "word2vec.png" 1642038752 57482 4e86e40dc0521b52102d63df05b4a9fb ""
   "word_vectors.png" 1642038752 34676 e698cb52e773616946d1be4b843dc671 ""
   (generated)
+  "a2_written.out"
+  "a2_written.pdf"
   "a2_written.log"
   "a2_written.aux"
-  "a2_written.pdf"
-  "a2_written.out"
